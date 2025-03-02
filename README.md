@@ -1,5 +1,3 @@
-# Task-Scheduler-Application
-
 # 🕒 Task Scheduler Application  
 
 ## 🚀 Overview  
